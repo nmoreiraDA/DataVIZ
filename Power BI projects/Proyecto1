@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>Mis Proyectos Power BI</title>
+</head>
+<body>
+    <h1>Mis Proyectos Power BI</h1>
+    <h2>Proyecto 1</h2>
+    <p>Informe de ventas mensuales:</p>
+   <iframe title="Flujo de pasajeros del Subte - Nahuel Moreira" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=1906dc5e-4bc4-4fb3-9e5b-495ed5f7da9f&autoAuth=true&ctid=2377472e-8004-4648-8456-bd9687afa150" frameborder="0" allowFullScreen="true"></iframe>
+  
+</body>
+</html>
